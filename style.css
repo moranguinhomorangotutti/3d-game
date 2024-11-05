@@ -1,5 +1,5 @@
 body{
-    background:blue;
+    background:rgb(0, 0, 0);
     color:aliceblue;
     margin:0px;
     font-family: "Tiny5", sans-serif;
@@ -12,4 +12,11 @@ body{
     margin-bottom: 80px;
     display: flex;
     justify-content: center;
+}
+header{
+    color:azure;
+    font-size: 40px;
+    margin-bottom: 3px;
+    padding: 20px;
+
 }
