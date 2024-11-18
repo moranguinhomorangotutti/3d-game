@@ -7,7 +7,7 @@ body{
 }
 
 .chamada{
-    background: black;
+    background: rgb(63, 185, 255);
     margin-top: 80px;
     margin-bottom: 80px;
     display: flex;
